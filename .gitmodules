@@ -13,3 +13,6 @@
 [submodule "cookbooks/java"]
 	path = cookbooks/java
 	url = https://github.com/opscode-cookbooks/java.git
+[submodule "popcorn-mobile"]
+	path = popcorn-mobile
+	url = https://github.com/popcorn-official/android-vm.git
